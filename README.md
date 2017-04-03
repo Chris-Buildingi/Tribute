@@ -2,7 +2,7 @@
 ## Synopsis
 This project was build for the Tribute project for the Junior developer meetup at Buildingi. It contains a react application that generates a page as a Tribute to Nicola Tesla. 
 
-The project was build using the yeoman (ountian-react)[https://github.com/FountainJS/generator-fountain-react] generaterreact
+The project was build using the yeoman [fountian-react](https://github.com/FountainJS/generator-fountain-react) generaterreact
 ## Installation
 
 This project uses Gulp and Webpack to build and serve the application. 
